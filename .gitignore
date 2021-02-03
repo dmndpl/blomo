@@ -1,0 +1,10 @@
+target/*
+
+.git
+.metals
+.vscode
+.bsp
+.bloop
+.bsp
+project/*
+target/*
