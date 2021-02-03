@@ -1,0 +1,1 @@
+Will try and create a socket based mini stock exchange, and then deploy on my Raspberry Pi cluster.
