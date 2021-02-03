@@ -1,3 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/andrei/Documents/blomo/src/main/resources/logback.xml,/Users/andrei/Documents/blomo/target/scala-2.13/classes/logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/andrei/Documents/blomo/src/main/resources/META-INF/native-image/dmndpl/blomo/reflect-config.json,/Users/andrei/Documents/blomo/target/scala-2.13/classes/META-INF/native-image/dmndpl/blomo/reflect-config.json)[0m
