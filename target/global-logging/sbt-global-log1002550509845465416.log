@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(067cbd99-2c39-4930-aa1c-3721285088af), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@75ac326f, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/andrei/Documents/blomo/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 2, Failed 0, Errors 0, Passed 2[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 3 s, completed 03-Feb-2021 17:08:56[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
